@@ -1,5 +1,6 @@
 # webScrapping
 A python script to scrape the data of a website.
+
 <img src="https://img.shields.io/badge/language-python3-brightgreen.svg"/>
 
 ## Getting Started
