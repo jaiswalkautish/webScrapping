@@ -46,6 +46,8 @@ Upon the successful execution a file named output.csv will be created in which t
 
 City, State, Latitude, Longitude, Elevation, EstmdPopulation.
 
+### A brief about Implementation
+
 The script webScrape is wrritten in python3 which uses the concept of multithreading for the efficient and parallel scraping of the website. The data that is the required output is dumped into a csv file by each thread simultaneously. To enable this a csv lock is used. Thus as soon as a thread reaches the required data it is dumped there only into the csv file.
 
 The project is tested on the local machine with following specification:
