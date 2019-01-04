@@ -1,5 +1,5 @@
 # webScrapping
-A python script to scrape the data of a website.
+A python script to scrape the data of the website http://www.fallingrain.com/world/IN/ into a CSV file containing State, City, Latitude, Longitude, Elevation, Estimated Population.
 
 <img src="https://img.shields.io/badge/language-python3-brightgreen.svg"/>
 
@@ -28,7 +28,7 @@ sudo apt-get install python3-numpy
 Clone the repository
 
 ```
-git clone .............
+git clone https://github.com/jaiswalkautish/webScrapping.git
 ```
 
 Change the directory
